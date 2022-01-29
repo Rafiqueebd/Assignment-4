@@ -1,0 +1,775 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/*--------Header Area-------*/
+
+header{
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    background: #87509C;
+    
+}
+
+.header-top{
+    
+}
+
+.logo{
+    width:40%;
+    float: left;
+    
+}
+
+.logo img{
+        
+}
+
+.menu{
+    width:60%;
+    float: left
+}
+
+.nav{
+    
+}
+
+.menu nav ul{
+    list-style: none;
+        
+}
+
+.menu nav ul li{
+    display: inline-block;
+    
+    
+}
+
+.menu nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 0 30px;      
+}
+
+.header-banner{
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px 0px;
+    
+}
+
+.header-banner h2{
+    color: white;
+    text-align: center;
+    
+}
+
+.banner-btn{
+    background: #EB7D4B;
+    margin: 30px auto;
+    display: block;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    box-shadow: 0px 04px 0px #c86a40;
+}
+
+/*--------Service-Area-------*/
+.service{
+    width: 100%;
+    float: left;
+    background: #17C2A4;
+}
+
+.service-top{
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px
+}
+
+.service-top h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.service-top span{
+    border: 1px solid black;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+ }
+
+.service-top p{
+    text-align: center;
+}
+
+.service-bottom{
+    
+}
+
+.service-one{
+    width: 25%;
+    float: left;
+   margin: 0 auto;
+}
+
+.service-one img{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.service-one h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px;
+ }
+
+.service-one p{
+    text-align: center;
+    margin: 10px 5px;
+}
+
+.service-two{
+    width: 25%;
+    float: left;
+    margin: 0 auto;
+}
+
+.service-two img{
+    width: 70px;
+    display: block;
+    margin: 0 auto;
+}
+
+.service-two h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px;
+ }
+
+.service-two p{
+    text-align: center;
+    margin: 10px 5px;
+}
+
+.service-three{
+    width: 25%;
+    float: left;
+   margin: 0 auto;
+}
+
+.service-three img{
+    width: 130px;
+    display: block;
+    margin: 0 auto;
+}
+
+.service-three h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px;
+    }
+
+.service-three p{
+    text-align: center;
+    margin: 10px 5px;
+}
+
+.service-four{
+    width: 25%;
+    float: left;
+   margin: 0 auto;
+}
+
+.service-four img{
+    width: 70px;
+    display: block;
+    margin: 0 auto;
+}
+
+.service-four h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px;
+ }
+
+.service-four p{
+    text-align: center;
+    margin: 10px 5px;
+}
+
+
+/*--------Team-Area-------*/
+
+.team{  
+    background: #D3D3D3;
+    width: 100%;
+    float: left
+        
+}
+
+.team-top{
+    width: 60%;
+    margin: 0 auto;
+    
+}
+
+.team-top h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px auto  
+}
+
+.team-top span{
+    border: 1px solid black;
+    display: block;
+    width: 150px;
+    margin: 10px auto;;
+    
+}
+
+.team-top p{
+        text-align: center;
+}
+
+.team-bottom{
+  
+    
+}
+.team-one{
+    width: 25%;
+    float: left;
+    
+}
+
+.team-one img{
+   width: 150px;
+  display: block;
+  margin: 5px auto;
+    
+}
+
+.team-one h2{
+        text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.team-one h3{
+    text-align: center;
+    text-size: 20px;
+    font-size: 15px;
+    color: 8452B5;
+    color: #8452B5
+}
+
+.team-one p{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.team-two{
+    width: 25%;
+    float: left;
+    
+}
+
+.team-two img{
+   width: 150px;
+  display: block;
+  margin: 5px auto;
+    
+}
+
+.team-two h2{
+        text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.team-two h3{
+    text-align: center;
+    text-size: 20px;
+    font-size: 15px;
+    color: 8452B5;
+    color: #8452B5
+}
+
+.team-two p{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.team-three{
+    width: 25%;
+    float: left;
+    
+}
+
+.team-three img{
+   width: 150px;
+  display: block;
+  margin: 5px auto;
+    
+}
+
+.team-three h2{
+        text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.team-three h3{
+    text-align: center;
+    text-size: 20px;
+    font-size: 15px;
+    color: 8452B5;
+    color: #8452B5
+}
+
+.team-three p{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.team-four{
+    width: 25%;
+    float: left;
+    
+}
+
+.team-four img{
+   width: 150px;
+  display: block;
+  margin: 5px auto;
+    
+}
+
+.team-four h2{
+        text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.team-four h3{
+    text-align: center;
+    text-size: 20px;
+    font-size: 15px;
+    color: 8452B5;
+    color: #8452B5
+}
+
+.team-four p{
+    text-align: center;
+    margin: 10px auto;
+}
+
+/*--Skills Area-----*/
+
+.skill-are{
+    width: 100%;
+    float: left;
+}
+
+.skill-top{
+    width: 60%;
+    margin: 0 auto;   
+}
+
+.skill-top h3{
+    text-align: center;
+    text-transform: uppercase; 
+    margin: 20px 0px auto;    
+}
+
+.skill-top span{
+    border: 1px solid black;
+    display: block;
+    width: 100px;
+    margin: 5px auto;    
+}
+
+.skill-top p{
+    text-align: center;
+}
+
+.skill-one{
+    width: 25%;
+    float: left;
+      
+}
+
+.skill-one img{
+    width: 100px;
+    display: block;
+    margin: 10px auto;    
+}
+.skill-one h4{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px auto;    
+}
+
+.skill-two{
+    width: 25%;
+    float: left;
+      
+}
+
+.skill-two img{
+    width: 100px;
+    display: block;
+    margin: 10px auto;    
+}
+.skill-two h4{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px auto;    
+}
+
+.skill-three{
+    width: 25%;
+    float: left;
+     
+}
+
+.skill-three img{
+    width: 100px;
+    display: block;
+    margin: 10px auto;    
+}
+.skill-three h4{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px auto;    
+}
+
+.skill-four{
+    width: 25%;
+    float: left;
+    
+}
+
+.skill-four img{
+    width: 100px;
+    display: block;
+    margin: 10px auto;    
+}
+.skill-four h4{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px auto;    
+}
+
+/*---------portfolio-area--------------*/
+
+.portfolio-area{
+    width: 100%;
+    float: left;
+    background: #FFDD99;    
+}
+
+.portfolio-top{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.portfolio-top h3{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px 0px auto;
+    
+}
+
+.portfolio-top span{
+    border: 1px solid black;
+    display: block;
+    width: 100px;
+    margin: 10px auto;    
+}
+
+.portfolio-top p{
+    text-align: center
+    
+}
+
+.portfolio-top nav{
+   width: 100%;
+   float: left;
+   margin: 0 auto;
+   
+    
+}
+
+.portfolio-top nav ul{
+    list-style: none;
+    text-align: center;
+    margin: 30px;
+    
+    
+}
+
+.portfolio-top nav ul li{
+    display: inline-block;
+    
+    
+      
+}
+
+.portfolio-top nav ul li a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    text-transform: capitalize;
+    background: #C7AC75;
+    padding: 10px;
+    margin: 10px;
+    text-transform: uppercase;
+    
+      
+}
+
+.portfolio-table{
+    width: 80%;
+    float: left;
+}
+
+.portfolio-table tr{
+   
+    
+}
+
+.portfolio-table td img{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+.portfolio-table td p{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.portfolio-btn{
+    width: 100%;
+    float: left;
+     }
+    
+
+.pfl-btn{
+    background: #30D0C1;
+    display: block;
+    margin: 30px auto;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 0px 04px 0px #009688;
+}
+
+
+/*=================About Us Section============*/
+.about-us{
+    width: 100%;
+    float: left;
+    background: #D74680;
+}
+
+.about-us h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px;
+    color: white;
+}
+
+.about-us span{
+    border: 1px solid black;
+    display: block;
+    width: 80px;
+    margin: 0 auto;
+    
+}
+
+.about-us h5{
+    text-align: center;
+    margin: 20px;
+    color: white;
+    
+}
+
+.aboutus-one{
+    width: 50%;
+    float: left;
+ }
+
+.aboutus-two{
+    width: 50%;
+    float: left;
+ }
+.aboutus-three{
+    width: 50%;
+    float: left;
+ }
+.aboutus-four{
+    width: 50%;
+    float: left;
+ }
+
+.imgs{
+    width: 30%;
+    float: left;
+}
+
+.imgs img{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text{
+    width: 70%;
+    float: left;
+ }
+.textes p{
+    text-align: justify;
+    padding: 10px;
+    margin-top: 10px;
+ }
+.textes h3{
+    text-align: left;
+    margin: 0;    
+ }
+.textes h5{
+    text-align: left;
+    margin: 0; 
+    color: #FFEE5B;
+ }
+
+/*==================footer-section============*/
+footer{
+    width: 100%;
+    float: left;
+    background: #3C5499;        
+}
+
+.footer-banner{
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+.footer-banner h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+   
+    
+    
+}
+.footer-banner span{
+    border: 1px solid black;
+    display: block;
+    margin: 10px auto;
+    width: 100px
+    
+}
+.footer-banner p{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    
+}
+.form-one{
+    width: 47%;
+    float: left;
+    display: block;
+    padding: 5px;
+    background: #0D3252;
+    border: 2px solid #3C5499;
+    
+    
+}
+.form-two{
+    width: 47%;
+    float: left;
+    display: block;
+     padding: 5px;
+    background: #0D3252;
+     border: 2px solid #3C5499;
+}
+.form-three{
+    width: 100%;
+    float: left;
+    display: block;
+    padding: 70px;
+    text-align: start;
+    background: #0D3252;
+   border: 2px solid #3C5499;
+    
+}
+.submit-button{
+    width: 55%;
+    margin: 0px auto;
+    display: block;
+    padding: 15px;
+    background: #30D0C1;
+    box-shadow: 0px 4px 0px #009688;
+    margin-top: 20px;
+    border: none;
+    
+    
+}
+
+.footer-bottom{
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+    background: #344B8E;
+        
+    
+}
+
+.footermenu ul{
+   list-style: none;
+   
+    
+}
+
+.footermenu ul li{
+    display: inline-block;
+    
+    
+}
+
+.footermenu ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0 20px;
+  
+}
+
+
+
+
